@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "ironfish-mpc",
+    "ironfish-phase2",
+]
+
+[workspace.package]
+authors = ["Iron Fish <contact@ironfish.network> (https://ironfish.network)"]
+edition = "2021"
+homepage = "https://ironfish.network/"
+repository = "https://github.com/iron-fish/ironfish-mpc"
